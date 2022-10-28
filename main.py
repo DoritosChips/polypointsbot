@@ -1,6 +1,3 @@
-from math import isnan
-from turtle import update
-from uuid import NAMESPACE_DNS
 from telegram import *
 from telegram.ext import *
 from sheet_parser import Sheet
